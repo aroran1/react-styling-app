@@ -1,1 +1,1 @@
-# react-component-styling
+# react-styling-app
